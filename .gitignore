@@ -1,2 +1,4 @@
-/node_modules/
-package-lock.json
+wp-content/themes/portfolio/node_modules/
+wp-content/themes/portfolio/package-lock.json
+wp-content/themes/portfolio/dist/src/css/*
+wp-content/themes/portfolio/main.min.js
